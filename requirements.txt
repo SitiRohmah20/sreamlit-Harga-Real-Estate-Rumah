@@ -1,6 +1,5 @@
 numpy
 pandas
-matplotlib.pyplot
-seaborn
-import pickle
-sklearn.model
+matplotlib==3.5.2
+scikit-learn
+streamlit==1.15.0
